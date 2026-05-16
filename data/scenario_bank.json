@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "news_writing",
+      "name": "新闻采写类",
+      "scenarios": [
+        {"id": "nw1", "task": "为一条突发社会新闻撰写消息稿（倒金字塔结构）", "difficulty": "basic"},
+        {"id": "nw2", "task": "为一则政策出台撰写解读式深度报道", "difficulty": "intermediate"},
+        {"id": "nw3", "task": "为一起公共卫生事件撰写调查性报道大纲", "difficulty": "advanced"},
+        {"id": "nw4", "task": "将一场新闻发布会的实录整理为800字新闻稿", "difficulty": "intermediate"}
+      ]
+    },
+    {
+      "id": "editing_planning",
+      "name": "编辑策划类",
+      "scenarios": [
+        {"id": "ep1", "task": "为一档新闻资讯类播客策划下一期选题", "difficulty": "basic"},
+        {"id": "ep2", "task": "为某地方融媒体中心策划一组春节系列报道", "difficulty": "intermediate"},
+        {"id": "ep3", "task": "为一个教育公平议题设计深度报道的采访提纲", "difficulty": "advanced"},
+        {"id": "ep4", "task": "为校园媒体策划\"毕业季\"特别报道方案", "difficulty": "intermediate"}
+      ]
+    },
+    {
+      "id": "social_media",
+      "name": "社交媒体与新媒体类",
+      "scenarios": [
+        {"id": "sm1", "task": "将一篇2000字深度报道改写为适合微信公众号的10万+风格", "difficulty": "intermediate"},
+        {"id": "sm2", "task": "为一条社会热点设计微博/小红书多平台分发策略", "difficulty": "intermediate"},
+        {"id": "sm3", "task": "为一个公益传播项目设计短视频脚本（抖音/B站）", "difficulty": "advanced"},
+        {"id": "sm4", "task": "将一条硬新闻改写为适合Z世代阅读的信息可视化文案", "difficulty": "intermediate"}
+      ]
+    },
+    {
+      "id": "public_opinion",
+      "name": "舆情与传播分析类",
+      "scenarios": [
+        {"id": "po1", "task": "分析某品牌危机公关声明的传播效果", "difficulty": "basic"},
+        {"id": "po2", "task": "为某地方政府的舆情通报提出改进建议", "difficulty": "intermediate"},
+        {"id": "po3", "task": "分析一条谣言的传播链路并设计辟谣策略", "difficulty": "advanced"},
+        {"id": "po4", "task": "对比中外媒体对同一事件的报道框架差异", "difficulty": "advanced"}
+      ]
+    }
+  ]
+}
