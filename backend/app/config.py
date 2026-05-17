@@ -22,7 +22,7 @@ class Settings(BaseSettings):
 
     # --- Auth ---
     teacher_password: str = "changeme"
-    student_access_code: str = "stu2026"
+    student_access_code: str = "stu2025"
     jwt_secret: str = "change-this-to-a-random-string"
     jwt_algorithm: str = "HS256"
     jwt_expire_minutes: int = 480  # 8 hours
