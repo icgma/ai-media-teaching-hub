@@ -82,7 +82,7 @@
 </tr>
 <tr>
 <td align="center"><b>学生 AI 对话</b></td>
-<td align="center"><b>提示词教练</b></td>
+<td align="center"><b>课程 AI 问答</b></td>
 </tr>
 <tr>
 <td>
@@ -92,9 +92,21 @@
 </td>
 <td>
 
+![](docs/screenshots/student-qa.png)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>提示词教练</b></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+
 ![](docs/screenshots/prompt-coach.png)
 
 </td>
+<td></td>
 </tr>
 </table>
 
