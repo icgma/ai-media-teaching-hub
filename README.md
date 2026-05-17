@@ -263,6 +263,6 @@ ai-media-teaching-hub/
 
 <div align="center">
 
-**Made with ❤️ by [ICGMA](https://github.com/icgma)**
+**Made with ❤️ by [ICGMA STU CSS Team](https://github.com/icgma)**
 
 </div>
